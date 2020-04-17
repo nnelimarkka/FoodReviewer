@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodReviewer</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="create_account">create account</string>
+    <string name="login">login</string>
+</resources>
