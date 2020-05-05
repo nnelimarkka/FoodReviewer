@@ -1,0 +1,89 @@
+<Menus>
+    <Restaurant1>
+
+        <monday name="Monday">
+            <option1>Broilerikastike</option1>
+            <option2>Kasvisminestrone</option2>
+        </monday>
+
+        <tuesday name="Tuesday">
+            <option1>Jauheliha-perunalaatikko</option1>
+            <option2>Riisipuuro</option2>
+        </tuesday>
+
+        <wednesday name="Wednesday">
+            <option1>Kalakeitto</option1>
+            <option2>Kasvispizza</option2>
+        </wednesday>
+
+        <thursday name="Thursday">
+            <option1>Makkarapyttipannu</option1>
+            <option2>Chili sin carne</option2>
+        </thursday>
+
+        <friday name="Friday">
+            <option1>Lasagne</option1>
+            <option2>Kasviskastike</option2>
+        </friday>
+
+    </Restaurant1>
+
+    <Restaurant2>
+
+        <monday name="Monday">
+            <option1>Jauhelihakeitto</option1>
+            <option2>Tomaattipasta</option2>
+        </monday>
+
+        <tuesday name="Tuesday">
+            <option1>Uuniperunat</option1>
+            <option2>Kasvis-papuvuoka</option2>
+        </tuesday>
+
+        <wednesday name="Wednesday">
+            <option1>Makaroonilaatikko</option1>
+            <option2>Kasvismakaronilaatikko</option2>
+        </wednesday>
+
+        <thursday name="Thursday">
+            <option1>Kalastajankeitto</option1>
+            <option2>Kasvismoussaka</option2>
+        </thursday>
+
+        <friday name="Friday">
+            <option1>Makkarakastike</option1>
+            <option2>3-viljanpuuro</option2>
+        </friday>
+
+    </Restaurant2>
+
+    <Restaurant3>
+
+        <monday name="Monday">
+            <option1>Broilerikiusaus</option1>
+            <option2>Vegebolognese</option2>
+        </monday>
+
+        <tuesday name="Tuesday">
+            <option1>Lihapyörykät</option1>
+            <option2>Mannapuuro</option2>
+        </tuesday>
+
+        <wednesday name="Wednesday">
+            <option1>Tonnikalalasagne</option1>
+            <option2>Hernekeitto</option2>
+        </wednesday>
+
+        <thursday name="Thursday">
+            <option1>Kaalikeitto</option1>
+            <option2>Falafel pyörykät</option2>
+        </thursday>
+
+        <friday name="Friday">
+            <option1>Jauhelihakastike</option1>
+            <option2>Pestopasta</option2>
+        </friday>
+
+    </Restaurant3>
+
+</Menus>
